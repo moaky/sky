@@ -1,0 +1,6 @@
+com\sky\catalogue\CatalogueService.class
+com\sky\catalogue\CustomerLocationServiceStub.class
+com\sky\catalogue\CatalogueServiceImpl.class
+com\sky\catalogue\Product.class
+com\sky\catalogue\CustomerLocationService.class
+com\sky\catalogue\CustomerLocationServiceException.class
